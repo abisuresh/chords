@@ -1,0 +1,2 @@
+module RadarDataHelper
+end

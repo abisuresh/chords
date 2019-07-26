@@ -1,0 +1,8 @@
+{
+  "name": "testImageApp",
+  "private": true,
+  "dependencies": {
+    "heatmap.js": "^2.0.5",
+    "leaflet-heatmap": "^1.0.0"
+  }
+}
